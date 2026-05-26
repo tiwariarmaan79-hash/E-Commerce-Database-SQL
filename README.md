@@ -82,4 +82,14 @@ Contains:
 
 ## Screenshots
 
-Screenshots of database tables and analytical query results are included in the screenshots folder.
+### Top Revenue Products
+
+![Top Revenue Products](screenshots/top_revenue_products.jpg)
+
+### Highest Spending Customers
+
+![Highest Spending Customers](screenshots/highest_spending_customers.jpg)
+
+### Best Selling Products
+
+![Best Selling Products](screenshots/best_selling_products.jpg)
